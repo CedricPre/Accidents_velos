@@ -118,6 +118,7 @@ def main():
 
     geojson_file = 'departements.geojson'
     map3(velo_csv=velo_csv, geojson_file=geojson_file)
+    #c
 
 if __name__ == '__main__':
     main()
